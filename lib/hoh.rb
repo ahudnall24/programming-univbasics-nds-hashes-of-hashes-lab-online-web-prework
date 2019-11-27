@@ -43,5 +43,5 @@ def naming_system
   # HoH all the way to Species!
 
 
- = {:name=>"Carrie Fisher", :mother=>{:name=>"Debbie Reynolds", :mother=>{}, :father=>{}}, :father=>{:name=>"Eddie Fisher", :mother=>{}, :father=>{}}}
+king = {:name=>"Carrie Fisher", :mother=>{:name=>"Debbie Reynolds", :mother=>{}, :father=>{}}, :father=>{:name=>"Eddie Fisher", :mother=>{}, :father=>{}}}
 end
